@@ -1,0 +1,1 @@
+Hangman – This Python game is similar to generating a random number, instead substituting a word where the user guesses the letters. You will also need to create a counter to count the number of guesses of the wrong letters. Skills used: Random library, boolean, input/output, char, string, and length.
